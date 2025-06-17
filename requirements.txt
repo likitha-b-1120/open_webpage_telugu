@@ -1,0 +1,5 @@
+Flask
+editdistance
+tqdm
+pandas
+gunicorn
